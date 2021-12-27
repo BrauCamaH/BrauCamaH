@@ -1,4 +1,4 @@
-# Hi, I’m @BrauCamaH
+# Hi, I’m Braulio Camarena
 
 
 I am interested in game y web development.
